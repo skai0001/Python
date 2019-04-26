@@ -1,8 +1,5 @@
 """ Author: Hasan Skaiky
- Student number: 040 672 444
- Date: 03/03/2019
- CST8333_350 Programming Language Research
- Assignment03  """
+ Date: 03/03/2019  """
 
 import csv
 import sys

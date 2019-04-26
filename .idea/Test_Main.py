@@ -1,8 +1,6 @@
 """ Author: Hasan Skaiky
- Student number: 040 672 444
  Date: 26/02/2019
- CST8333_350 Programming Language Research
- Assignment03_Unit_Testing  """
+_Unit_Testing  """
 
 
 import unittest
@@ -22,6 +20,3 @@ class KnownValues(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
-name = "@auther: Hasan Skaiky"
-print name
